@@ -58,26 +58,15 @@ Each dataset consists of **hourly energy consumption (MW)** recorded over severa
 The datasets in this repository were used in the research paper **"AI-Driven Hybrid Models for Enhanced Energy Demand Forecasting in Smart Grids."** This paper explores hybrid AI models to enhance the accuracy of energy demand forecasting.
 
 - **Title:** AI-Driven Hybrid Models for Enhanced Energy Demand Forecasting in Smart Grids
-- **Author:** [Your Name]
+- **Author:** Mridul
 - **Supervisor:** Dr. Arun Solanki
-- **Institution:** [Your Institution]
+- **Institution:** Gautam Buddha Univerity, Greater Noida
 
 ## 📝 Availability of Code
 The code used for data preprocessing, model training, and evaluation is currently **not included** in this repository. If you are interested in the implementation details, please reach out via email or refer to the research paper.
-
-## 📜 Citation
-If you use this dataset in your research, please cite the original paper:
-```bibtex
-@article{YourPaper2025,
-  author    = {Your Name},
-  title     = {AI-Driven Hybrid Models for Enhanced Energy Demand Forecasting in Smart Grids},
-  journal   = {Journal Name},
-  year      = {2025},
-}
-```
 
 ## 🤝 Contributing
 Feel free to open issues or submit pull requests if you have suggestions for improving this dataset or its documentation.
 
 ## 📧 Contact
-For any inquiries, please reach out at [Your Email].
+For any inquiries, please reach out at mridul8899sharma@gmail.com.
