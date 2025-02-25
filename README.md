@@ -3,6 +3,14 @@
 ## 📌 Overview
 This repository contains the datasets used in the research paper **"AI-Driven Hybrid Models for Enhanced Energy Demand Forecasting in Smart Grids."** The datasets contain historical energy consumption data from various U.S. power grids. These datasets can be useful for energy demand forecasting, time-series analysis, and AI-based modeling.
 
+## 📜 Research Paper
+The datasets in this repository were used in the research paper **"AI-Driven Hybrid Models for Enhanced Energy Demand Forecasting in Smart Grids."** This paper explores hybrid AI models to enhance the accuracy of energy demand forecasting.
+
+- **Title:** AI-Driven Hybrid Models for Enhanced Energy Demand Forecasting in Smart Grids
+- **Author:** Mridul
+- **Supervisor:** Dr. Arun Solanki
+- **Institution:** Gautam Buddha Univerity, Greater Noida
+
 ## 📂 Datasets
 Each dataset consists of **hourly energy consumption (MW)** recorded over several years.
 
@@ -53,14 +61,6 @@ Each dataset consists of **hourly energy consumption (MW)** recorded over severa
 ![PJME Dataset](https://res.cloudinary.com/dz9fq5jno/image/upload/v1740488935/Screenshot_2025-02-25_182011_ebnp4d.png)
 
 ---
-
-## 📜 Research Paper
-The datasets in this repository were used in the research paper **"AI-Driven Hybrid Models for Enhanced Energy Demand Forecasting in Smart Grids."** This paper explores hybrid AI models to enhance the accuracy of energy demand forecasting.
-
-- **Title:** AI-Driven Hybrid Models for Enhanced Energy Demand Forecasting in Smart Grids
-- **Author:** Mridul
-- **Supervisor:** Dr. Arun Solanki
-- **Institution:** Gautam Buddha Univerity, Greater Noida
 
 ## 📝 Availability of Code
 The code used for data preprocessing, model training, and evaluation is currently **not included** in this repository. If you are interested in the implementation details, please reach out via email or refer to the research paper.
