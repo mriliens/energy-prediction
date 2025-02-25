@@ -21,7 +21,7 @@ Each dataset consists of **hourly energy consumption (MW)** recorded over severa
 | 31-12-2004 02:00  | 12865  |
 | 31-12-2004 03:00  | 12577  |
 
-![AEP Dataset](IMAGE_LINK_HERE)
+![AEP Dataset](https://res.cloudinary.com/dz9fq5jno/image/upload/v1740488746/Screenshot_2025-02-25_181731_w1zr0x.png)
 
 ---
 
