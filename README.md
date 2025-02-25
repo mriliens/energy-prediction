@@ -14,13 +14,6 @@ Each dataset consists of **hourly energy consumption (MW)** recorded over severa
   - `Datetime`: Timestamp of the record
   - `AEP_MW`: Energy consumption in MW
 
-#### 🔹 Sample Data:
-| Datetime           | AEP_MW |
-|--------------------|--------|
-| 31-12-2004 01:00  | 13478  |
-| 31-12-2004 02:00  | 12865  |
-| 31-12-2004 03:00  | 12577  |
-
 ![AEP Dataset](https://res.cloudinary.com/dz9fq5jno/image/upload/v1740488746/Screenshot_2025-02-25_181731_w1zr0x.png)
 
 ---
@@ -33,14 +26,7 @@ Each dataset consists of **hourly energy consumption (MW)** recorded over severa
   - `Datetime`: Timestamp of the record
   - `COMED_MW`: Energy consumption in MW
 
-#### 🔹 Sample Data:
-| Datetime           | COMED_MW |
-|--------------------|---------|
-| 31-12-2011 01:00  | 9970    |
-| 31-12-2011 02:00  | 9428    |
-| 31-12-2011 03:00  | 9059    |
-
-![COMED Dataset](IMAGE_LINK_HERE)
+![COMED Dataset](https://res.cloudinary.com/dz9fq5jno/image/upload/v1740488829/Screenshot_2025-02-25_181838_ss2eya.png)
 
 ---
 
@@ -52,14 +38,7 @@ Each dataset consists of **hourly energy consumption (MW)** recorded over severa
   - `Datetime`: Timestamp of the record
   - `DAYTON_MW`: Energy consumption in MW
 
-#### 🔹 Sample Data:
-| Datetime           | DAYTON_MW |
-|--------------------|----------|
-| 31-12-2004 01:00  | 1596     |
-| 31-12-2004 02:00  | 1517     |
-| 31-12-2004 03:00  | 1486     |
-
-![DAYTON Dataset](IMAGE_LINK_HERE)
+![DAYTON Dataset](https://res.cloudinary.com/dz9fq5jno/image/upload/v1740488901/Screenshot_2025-02-25_181942_v1ydtu.png)
 
 ---
 
@@ -71,14 +50,7 @@ Each dataset consists of **hourly energy consumption (MW)** recorded over severa
   - `Datetime`: Timestamp of the record
   - `PJME_MW`: Energy consumption in MW
 
-#### 🔹 Sample Data:
-| Datetime           | PJME_MW |
-|--------------------|--------|
-| 31-12-2002 01:00  | 26498  |
-| 31-12-2002 02:00  | 25147  |
-| 31-12-2002 03:00  | 24574  |
-
-![PJME Dataset](IMAGE_LINK_HERE)
+![PJME Dataset](https://res.cloudinary.com/dz9fq5jno/image/upload/v1740488935/Screenshot_2025-02-25_182011_ebnp4d.png)
 
 ---
 
